@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1544045007 source:c:\users\tatiane\desktop\projetofinal\projetofinal\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
+1544044957 c:\users\tatiane\desktop\projetofinal\projetofinal\projeto.h
+
+1544045047 source:c:\users\tatiane\desktop\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+	<locale.h>
+
+1656813423 source:c:\users\batman\downloads\nova pasta\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+	<locale.h>
+
+1656812413 c:\users\batman\downloads\nova pasta\projetofinal\projetofinal\projeto.h
+
+1656866115 source:c:\users\batman\downloads\nova pasta\projetofinal\projetofinal\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
+1656876694 source:c:\users\nicol\onedrive\documentos\projetos_c\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+	<locale.h>
+
+1656876694 c:\users\nicol\onedrive\documentos\projetos_c\projetofinal\projeto.h
+
+1656876974 source:c:\users\nicol\onedrive\documentos\projetos_c\projetofinal\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
