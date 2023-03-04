@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665863190 source:c:\users\nicol\onedrive\documentos\projordenação\arvorebinariaavl\arvavl.c
+	<stdio.h>
+	<stdlib.h>
+	"arvAVL.h"
+
+1665865429 c:\users\nicol\onedrive\documentos\projordenação\arvorebinariaavl\arvavl.h
+
+1665863852 source:c:\users\nicol\onedrive\documentos\projordenação\arvorebinariaavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvAVL.h"
+
